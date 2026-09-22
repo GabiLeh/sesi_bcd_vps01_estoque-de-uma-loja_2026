@@ -1,0 +1,5 @@
+Movimenta��o do estoque,,,,
+id_movimentacao,id_produto,tipo,quantidade,data
+1,1,Sa�da,3,2026-02-27
+2,2,Entrada,4,2026-05-10
+3,3,Sa�da,1,2026-02-07

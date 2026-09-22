@@ -1,0 +1,5 @@
+Fornecedor,,,,,,
+id,razao_social,nome_fantasia,telefone,email,cnpj,endereco
+1,Roupas diversas,RD,19993258698,roupasdiversas@gmail.com,08659458/0001-99,Rua Encomendador
+2,Jeans++,J++,19991539875,jeansplusplus@gmail.com,09524757/0008-56,Rua Camandocaia
+3,Space Me!,SM,19962457893,spacememe@gmail.com,01255682/0007-88,Rua �talia
