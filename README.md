@@ -2,7 +2,7 @@
 ## Projeto: Gestâo de Pedidos
 ``LOGICO``
 <img src="mer_der_logico.png">
-``CONCEITUAL``
+``CONCEITUAL`` <br>
 <img src="mer_der_conceitual.drawio.png">
 ## Dicionário de Dados
 
