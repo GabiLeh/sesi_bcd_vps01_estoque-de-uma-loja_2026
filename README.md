@@ -43,7 +43,7 @@
 
 ## Script SQL DDL (Desenvolvimanto: Criação do Banco de dados)
 
-```
+```sql
 drop database if exists estoque_loja;
 create database estoque_loja;
 use estoque_loja;
@@ -99,7 +99,7 @@ show tables;
 
 ## Script SQL DML(Manipulação: População com dados de teste)
 
-```
+```sql
 use estoque_loja;
 
 insert into categoria(nome, descricao) values
